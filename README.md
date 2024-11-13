@@ -1,4 +1,4 @@
-# JavaScript para Web: Crie páginas dinâmicas
+# Curso de JavaScript: manipulando elementos no DOM
 
 ![](imagens/print.png)
 
@@ -11,24 +11,23 @@
 5. [Conheça o projeto](#Conheça-o-projeto)
 
 ## Descrição do Projeto
-Este projeto tem como objetivo proporcionar uma compreensão dos papéis de cada tecnologia da Web na construção de páginas, bem como a aplicação prática de técnicas de JavaScript em conjunto com HTML e CSS para criar páginas dinâmicas e interativas.
+Este projeto é focado na construção de uma aplicação de temporizador estilo Pomodoro, que me permitiu aprender e aplicar diversas técnicas de desenvolvimento Web com HTML, CSS e JavaScript. O objetivo é criar uma ferramenta útil e funcional para a gestão de tempo e produtividade, enquanto se explora a manipulação do DOM e eventos de interação com o usuário
 
 ## Motivação
 Projeto desenvolvido com o intuito de aprimorar meus conhecimentos e me desenvolver na área da programação. Acredito que, ao investir tempo e esforço no estudo contínuo, poderei evoluir minhas habilidades técnicas e contribuir de forma significativa para projetos desafiadores e inovadores.
 
 ## Funcionalidades
-- Identificar os papéis de cada tecnologia da Web para construção de páginas
-- Associar o JavaScript com HTML através do DOM
-- Implementar funções com JavaScript
-- Investigar possibilidades de resolução de problemas de código
-- Selecionar operadores lógicos adequados para diferentes situações
-- Produzir soluções simples para páginas dinâmicas
+- Construa uma aplicação de temporizador estilo Pomodoro do zero
+- Conheça na prática métodos de manipulação de elementos no DOM, como estilos CSS, imagens e textos
+- Altere atributos e classes de forma dinâmica com JavaScript
+- Crie eventos de interação com a pessoa usuária
+- Utilize objetos utilitários do JavaScript
 
 ## Temas que foram abordados no curso 
-- Funções
-- Listas
-- Interando em listas
-- Eventos e lógicas
+- Manipulando elementos da página
+- Aplicando áudio e estilos
+- Desenvolvendo o temporizador
+- Finalizando o projeto
 
 ## Tecnologias Utilizadas 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
